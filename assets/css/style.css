@@ -504,8 +504,8 @@ h6 {
 --------------------------------------------------------------*/
 #gal-hero {
   width: 100%;
-  min-height: 60vh;
-  background: url("../img/Products/Gallery.png") top center;
+  min-height: 100vh;
+  background: url("../img/Products/gallery.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -605,7 +605,7 @@ h6 {
 #contact-hero {
   width: 100%;
   min-height: 80vh;
-  background: url("../img/Contact-us\ .png") top center;
+  background: url("../img/Products/contact-us.jpg") top center;
   background-size: cover;
   position: relative;
 }
