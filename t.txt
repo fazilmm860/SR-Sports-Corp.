@@ -1,0 +1,449 @@
+<div class="accordion-item">
+              <div class="accordion-item-header">
+                Is It Possible To Construct A Cricket Pitch Inside The Turf?
+              </div>
+              <div class="accordion-item-body">
+                <div class="accordion-item-body-content">
+                  <ul style="padding-left: 1rem;">
+                    <li>HTML, CSS, JavaScript</li>
+                    <li>Frameworks (CSS and JavaScript frameworks)</li>
+                    <li>Responsive Design</li>
+                    <li>Version Control/Git</li>
+                    <li>Testing/Debugging</li>
+                    <li>Browser Developer Tools</li>
+                    <li>Web Performance</li>
+                    <li>SEO (Search Engine Optimization)</li>
+                    <!-- <li>CSS Preprocessing</li> -->
+                    <li>Command Line</li>
+                    <li>CMS (Content Management System)</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+
+
+
+            <!--  Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Gallery</h2>
+
+    </div><!-- End Section Title -->
+    <section id="gallery" class="start-slider">
+
+      <div class="container" data-aos="fade-up">
+        <div class="slider-container">
+          <div class="slide">
+
+            <div class="row">
+              <div class="item" style="background-image: url(/assets/img/portfolio/badminton-court.jpg);">
+                <div class="content-slider">
+
+                </div>
+              </div>
+              <div class="item" style="background-image: url(/assets/img/portfolio/Cricket-stadium.jpg);">
+                <div class="content-slider">
+                </div>
+              </div>
+              <div class="item" style="background-image: url(/assets/img/portfolio/Football-Court.jpg);">
+                <div class="content-slider">
+
+                </div>
+              </div>
+              <div class="item" style="background-image: url(/assets/img/portfolio/Tennis-Court.jpg);">
+                <div class="content-slider">
+
+                </div>
+              </div>
+              <div class="item" style="background-image: url(/assets/img/portfolio/volley-ball-court.jpg);">
+                <div class="content-slider">
+
+                </div>
+              </div>
+
+
+            </div>
+
+            <div class="slider-button">
+              <button class="prev"><i class="bi bi-arrow-left-circle-fill"></i></button>
+              <button class="next"><i class="bi bi-arrow-right-circle-fill"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Gallery Section -->
+
+
+
+
+
+
+
+        <!-- ======= Header ======= -->
+    <header id="header" class="header d-flex align-items-center">
+        <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+            <a href="index.html" class="logo d-flex align-items-center">
+                <!-- Uncomment the line below if you also wish to use an image logo -->
+                <!-- <img src="assets/img/logo.png" alt=""> -->
+                <h1>Basketball Court<span>.</span></h1>
+            </a>
+
+            <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+            <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto active" href="#about">About Us</a></li>
+                    <li><a class="nav-link scrollto active" href="#alt-services">Signature Projects</a></li>
+                    <li><a class="nav-link scrollto active" href="#services">Turf Properties</a></li>
+                    <li><a class="nav-link scrollto active" href="#what-do">What We Do</a></li>
+                    <li><a class="nav-link scrollto" href="/gallery.html" target="_blank">Gallery</a></li>
+                    <li><a class="nav-link scrollto" href="/contact.html" target="_blank">Contact</a></li>
+
+                </ul>
+            </nav><!-- .navbar -->
+
+        </div>
+    </header><!-- End Header -->
+
+
+
+
+     <!-- ======= Stats Counter Section ======= -->
+        <section id="stats-counter" class="stats-counter section-bg">
+            <div class="container">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item d-flex align-items-center w-100 h-100">
+                            <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
+                            <div>
+                                <span data-purecounter-start="0" data-purecounter-end="232"
+                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <p>Happy Clients</p>
+                            </div>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item d-flex align-items-center w-100 h-100">
+                            <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
+                            <div>
+                                <span data-purecounter-start="0" data-purecounter-end="521"
+                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <p>Projects</p>
+                            </div>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item d-flex align-items-center w-100 h-100">
+                            <i class="bi bi-headset color-green flex-shrink-0"></i>
+                            <div>
+                                <span data-purecounter-start="0" data-purecounter-end="1463"
+                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <p>Hours Of Support</p>
+                            </div>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item d-flex align-items-center w-100 h-100">
+                            <i class="bi bi-people color-pink flex-shrink-0"></i>
+                            <div>
+                                <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
+                                    class="purecounter"></span>
+                                <p>Hard Workers</p>
+                            </div>
+                        </div>
+                    </div><!-- End Stats Item -->
+
+                </div>
+
+            </div>
+        </section><!-- End Stats Counter Section -->
+
+
+
+
+
+
+        <h3 class="turf-h3">
+                    Note 1</h3>
+                <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item position-relative text-center">
+
+                        <h3 class="mb-2">Transportation charges / delivery included</h3>
+
+                    </div>
+                </div><!-- End Service Item -->
+                <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item position-relative text-center">
+
+                        <h3 class="mb-2">GST 18%</h3>
+
+                    </div>
+                </div><!-- End Service Item -->
+                <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item position-relative text-center">
+
+                        <h3 class="mb-2">Labor accomodation to be provided by client</h3>
+
+                    </div>
+                </div><!-- End Service Item -->
+
+
+
+
+
+
+                    <!-- WHY SR SPORTS CORP. -->
+        <section id="what-do" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+                <h3 class="turf-h3">
+                    WHY SR SPORTS CORP.?</h3>
+
+                <div class="row justify-content-center gy-2">
+                    <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+                            <div class="icon">
+                                <i><img src="/assets/img/icons/real-time.png" alt=""></i>
+                            </div>
+                            <h3 class="mb-2">Timely delivery</h3>
+                            <!-- <h3>Leveling & achieving slope of
+                                the ground using various
+                                stones & jally. PVC pipe for
+                                water drainage.</h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+                    <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="service-item position-relative text-center">
+                            <div class="icon">
+                                <i><img src="/assets/img/icons/badge.png" alt=""></i>
+                            </div>
+                            <h3 class="mb-2">Top quality</h3>
+                            <!-- <h3>TATA, Apollo, Nezone Steel
+                                structures for maximum
+                                durability.
+                            </h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+                    <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+                            <div class="icon">
+                                <i><img src="/assets/img/icons/profit.png" alt=""></i>
+                            </div>
+                            <h3 class="mb-2">Cost effective</h3>
+                            <!-- <h3>150w floodlights with 2 years
+                                warranty including wiring &
+                                switch box installation</h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+                    <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="service-item position-relative text-center">
+                            <div class="icon">
+                                <i><img src="/assets/img/icons/maintenance.png" alt=""></i>
+                            </div>
+                            <h3 class="mb-2">Support & maintenance</h3>
+                            <!-- <h3>Garware nets
+                                2.5mm (sides), 1mm (top)
+                            </h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+
+                </div>
+            </div>
+        </section><!-- End Services Section -->
+        <!--End  WHY SR SPORTS CORP. -->
+
+
+
+
+         <!-- Quotation -->
+        <section id="what-do" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+                <h3 class="turf-h3">
+                    Quotation</h3>
+
+                <div class="row justify-content-center gy-2">
+
+                    <table class="content-table" data-aos="fade-up">
+                        <thead>
+                            <tr>
+                                <th>PARTICULARS</th>
+                                <th>SQ.FT / QTY.</th>
+                                <th>RATE</th>
+                                <th>TOTAL</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>BASKETBALL & BADMINTON COURT <p>Supply, Installation & Finishing of “wooden”
+                                        flooring system </p>
+                                    <ol>
+                                        <li>Plastic EPDM 19mm thickness</li>
+                                        <li>Runner 45mm Pine wood</li>
+                                        <li>21mm top African Teakwood</li>
+                                        <li>Polishing - ECO STAR</li>
+                                        <li>Game line marking</li>
+                                        <li>Nylon badminton nets</li>
+                                        <li>Laying</li>
+                                        <li>Labour</li>
+                                        <li>Transport</li>
+                                    </ol>
+                                    <p>*Same material will be used for both Badminton & Basketball*</p>
+                                    <p>*Basketball post & ring nets will be provided if required at
+                                        extra cost*
+                                    </p>
+                                </td>
+                                <td>11000 sq.ft <br>100ft x 110ft</td>
+                                <td>412/- per sq.ft</td>
+                                <td>45,32,000/-</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </section>
+        <!-- End Quotation -->
+
+
+
+                <!-- Terms & Conditions -->
+        <section id="services" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+                <h3 class="turf-h3">
+                    Terms & Conditions</h3>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+                            <h3 class="mb-2">50% upon confirmation / PO
+                            </h3>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+                            <h3 class="mb-2">40% at the arrival of court materials
+                            </h3>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+                            <h3 class="mb-2">10% before installation of court layer
+                            </h3>
+
+                        </div>
+                    </div>
+                </div>
+                <h6 style="padding: 55px;"><strong>PS: Work will be completed within approximately 3 weeks
+                        after receipt of
+                        your order with advance & subject to site condition.</strong></h6>
+        </section>
+        <!--  Notes 1 Terms and Condition. -->
+        <section id="what-do" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+                <h3 class="turf-h3">
+                    Note 1</h3>
+
+                <div class="row justify-content-center gy-2">
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">Transportation charges / delivery included</h3>
+                            <!-- <h3>Leveling & achieving slope of
+                        the ground using various
+                        stones & jally. PVC pipe for
+                        water drainage.</h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">GST 18%
+                            </h3>
+                            <!-- <h3>TATA, Apollo, Nezone Steel
+                        structures for maximum
+                        durability.
+                    </h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">Labor accomodation to be provided by client</h3>
+                            <!-- <h3>150w floodlights with 2 years
+                        warranty including wiring &
+                        switch box installation</h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+
+
+
+                </div>
+            </div>
+        </section><!-- End Services Section -->
+        <!-- End Notes 1 Terms and Condition. -->
+
+        <!--  Notes 2 Terms and Condition. -->
+        <section id="what-do" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+                <h3 class="turf-h3">
+                    Note 2</h3>
+
+                <div class="row justify-content-center gy-2">
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">The varying colour of the wood due to its natural characteristics will not
+                                be considered as a defect.
+                            </h3>
+
+                        </div>
+                    </div><!-- End Service Item -->
+
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">The timber used for surface boards will be of your choice Imported
+                                <strong style="color: green;">Teakwook</strong>
+
+                            </h3>
+
+                        </div>
+                    </div><!-- End Service Item -->
+                    <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item position-relative text-center">
+
+                            <h3 class="mb-2">The surface board will be free from bee or border holes splits, cracks &
+                                fungal attack</h3>
+                            <!-- <h3>150w floodlights with 2 years
+                warranty including wiring &
+                switch box installation</h3> -->
+                        </div>
+                    </div><!-- End Service Item -->
+
+
+
+
+                </div>
+            </div>
+        </section><!-- End Services Section -->
+        <!-- End Notes 2 Terms and Condition. -->
+
+        <!--END Terms & Conditions -->
