@@ -1558,7 +1558,17 @@ section {
     transform: rotate(360deg);
   }
 }
-
+.contact-btn{
+  background: #ffc451;
+  border: 0;
+  padding: 10px 24px;
+  color: #151515;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+.contact-btn:hover{
+  background: #ffcd6b;
+}
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
